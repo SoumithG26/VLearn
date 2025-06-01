@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Python Official Documentation",
+    "url": "https://docs.python.org/3/",
+    "description": "The official Python documentation with tutorials, library reference, and language reference.",
+    "category": "Programming",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Git Documentation",
+    "url": "https://git-scm.com/doc",
+    "description": "Official Git documentation including tutorials, reference manual, and videos.",
+    "category": "Tools",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "title": "Streamlit Documentation",
+    "url": "https://docs.streamlit.io/",
+    "description": "Complete guide to building data apps with Streamlit framework.",
+    "category": "Frameworks",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "title": "JavaScript MDN Web Docs",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "description": "Comprehensive JavaScript documentation and tutorials from Mozilla.",
+    "category": "Programming",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "title": "React Documentation",
+    "url": "https://react.dev/",
+    "description": "Official React documentation with interactive tutorials and examples.",
+    "category": "Frameworks",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "Docker Documentation",
+    "url": "https://docs.docker.com/",
+    "description": "Complete Docker documentation covering containers, images, and deployment.",
+    "category": "DevOps",
+    "rating": 5
+  },
+  {
+    "id": 7,
+    "title": "VS Code Documentation",
+    "url": "https://code.visualstudio.com/docs",
+    "description": "Official Visual Studio Code documentation and setup guides.",
+    "category": "Tools",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "title": "Pandas Documentation",
+    "url": "https://pandas.pydata.org/docs/",
+    "description": "Official Pandas documentation for data manipulation and analysis.",
+    "category": "Programming",
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "title": "Node.js Documentation",
+    "url": "https://nodejs.org/docs/",
+    "description": "Official Node.js documentation and API reference.",
+    "category": "Programming",
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "title": "GitHub Documentation",
+    "url": "https://docs.github.com/",
+    "description": "Complete GitHub documentation covering repositories, actions, and collaboration.",
+    "category": "Tools",
+    "rating": 5
+  }
+]
